@@ -1,0 +1,47 @@
+/* Import Erick Meyer Reset  */
+@import 'plugins/reset.css';
+
+.home {
+	background: url(images/sunset.jpg) 50% 0 no-repeat fixed; min-height: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+	max-width: 1920px;
+	position: relative;
+	background-size: cover;
+	h1 {
+		height: 400px;
+		position: absolute;
+		text-align: center;
+		width: 100%;
+		bottom: 30%;
+		font-size: 4em;
+		font-weight: bold;
+		color: white;
+		font-family: sans-serif;
+	}
+}
+
+.about {
+	background: url(images/happygirl.jpg) 50% 0 no-repeat fixed; min-height: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+	width: 100%;
+	position:  relative;
+	background-size: cover;
+	h1 {
+		position: absolute;
+		top:40%;
+		text-align: center;
+		width: 100%;
+		font-size: 4em;
+		color: white;
+		font-family:sans-serif;
+		font-weight: bold;
+		
+		
+	}
+	
+}
+
+
+
